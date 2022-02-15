@@ -10,21 +10,10 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="HTML Logo" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS Logo" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="ReactJS Logo" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux Logo" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="Ts Logo" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="Php Logo" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" alt="Laravel Logo" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux Logo" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git Logo" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="Mysql Logo" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" alt="Postgres Logo" width="50px" height="50px">
 
 
+##### 🔭 I’m currently working on
+Single Page Applicacion and API rest project with PostgreSql
 
-- 🔭 I’m currently working on Single Page Applicacion and API rest project with PostgreSql
+##### I’m currently learning
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Postgres Logo" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="Postgres Logo" width="50px" height="50px">
 
-- 🌱 I’m currently learning Domain Driven Design and making changes in my current project to reach out it
-<!--
-**rmzluish/rmzluish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- - 🌱 I’m currently learning <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Postgres Logo" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="Postgres Logo" width="50px" height="50px"> -->
