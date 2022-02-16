@@ -13,7 +13,6 @@
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python Logo" width="50px" height="50px">  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java Logo" width="50px" height="50px">
 
-
 ##### 🔭 I’m currently working on
 Single Page Applicacion and API rest project and PostgreSql
 
