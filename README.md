@@ -1,5 +1,5 @@
 
-### Hi Everyone.
+### Hi.
 ### This is Luis H. Ramirez
 
 [![Twitter: rmzluis_h](https://img.shields.io/twitter/follow/rmzluis_h?style=social)](https://twitter.com/rmzluis_h)[![Linkedin: rmzluish](https://img.shields.io/badge/-rmzluish-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rmzluish/)](https://www.linkedin.com/in/rmzluish/)[![GitHub Thaiane](https://img.shields.io/github/followers/rmzluish?label=follow&style=social)](https://github.com/rmzluish)
@@ -15,7 +15,7 @@
 
 
 ##### 🔭 I’m currently working on
-Single Page Applicacion and API rest project with PostgreSql
+Single Page Applicacion and API rest project and PostgreSql
 
 ##### I’m currently learning
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Postgres Logo" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="Postgres Logo" width="50px" height="50px">
