@@ -1,6 +1,6 @@
 
 ### Hi.
-### This is Luis H. Ramirez.
+### This is Luis Ramirez.
 
 [![Twitter: rmzluis_h](https://img.shields.io/twitter/follow/rmzluis_h?style=social)](https://twitter.com/rmzluis_h)[![Linkedin: rmzluish](https://img.shields.io/badge/-rmzluish-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rmzluish/)](https://www.linkedin.com/in/rmzluish/)[![GitHub Thaiane](https://img.shields.io/github/followers/rmzluish?label=follow&style=social)](https://github.com/rmzluish)
 
