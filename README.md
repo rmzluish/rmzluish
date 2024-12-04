@@ -13,9 +13,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="ReactJS Logo" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux Logo" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="Ts Logo" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="Php Logo" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" alt="Laravel Logo" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux Logo" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git Logo" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="Mysql Logo" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" alt="Postgres Logo" width="50px" height="50px">
 
 ##### Other
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python Logo" width="50px" height="50px">  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java Logo" width="50px" height="50px">
-
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java Logo" width="50px" height="50px">
 ##### 🔭 I’m currently working on
 Single Page Applicacion and REST API project and PostgreSql
 
